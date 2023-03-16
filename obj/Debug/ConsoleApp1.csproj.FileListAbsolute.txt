@@ -1,0 +1,8 @@
+D:\HexaWare Batch2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\HexaWare Batch2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\HexaWare Batch2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\HexaWare Batch2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\HexaWare Batch2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\HexaWare Batch2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\HexaWare Batch2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\HexaWare Batch2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
